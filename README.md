@@ -13,10 +13,10 @@ The APIs made available for use in this project are:
 Removes all Physical Stores: 						          /wine/phisicStores/removeAll 			       - Method: POST 
 
 Removes a Specific Physical Store: 					      /wine/phisicStores/remove 				       - Method: POST - Send the Id field in the Body
-Body Example:
-{
-    "id":52
-}
+#Body Example:
+#{
+#    "id":52
+#}
 
 Create a Physical Store: 							            /wine/phisicStores/create 				       - Method: POST - Send the fields in the Body (field ID ignored)
 Body Example:
