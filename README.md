@@ -1,5 +1,6 @@
 # WINE TEST
-Project for the company WINE - In this project Rest APIs were created to control the stores and prevent the conflict of ranges between the CEPs.
+Project for the company WINE
+In this project Rest APIs were created to control the stores and prevent the conflict of ranges between the CEPs.
 
 The project was all written in English, only the name of the table and the name of the table fields that are in Portuguese, as they were the names that were order in the test.
 In addition to the methods requested in the test, I created some other methods, as I saw an opportunity to do more than what was asked for.
